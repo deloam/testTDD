@@ -10,3 +10,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/AgendaContato/nbproject/private/
+/agenda_zd/nbproject/private/
+/ClientEditor/nbproject/private/
+/ClientEditor/build/
+/xadrez/nbproject/private/
+/xadrez/build/
+/rainhasCavalo/nbproject/private/
+/rainhasCavalo/build/
+/rainhasCavalo/dist/
+/JavaApplication20/nbproject/private/
+/JavaApplication20/build/
+/JavaApplication20/dist/
+/aggenetico/nbproject/private/
+/aggenetico/build/
+/xadrez/dist/
