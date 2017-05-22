@@ -10,7 +10,7 @@ public class Tabuleiro {
         tabuleiro = new boolean[8][8];
         zeraTabuleiro();
     }
-//normaliza todo o tabuleiro para falso, será usado isso em TabuleiroVisual, na hora dos prints
+//normaliza todo o tabuleiro para falso, será usado isso em TabuleiroVisual, na hora dos prints.
 
     public void zeraTabuleiro() {
         for (int y = 0; y < 8; y++) {
